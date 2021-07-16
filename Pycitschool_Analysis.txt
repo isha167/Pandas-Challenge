@@ -1,0 +1,10 @@
+Pandas-Challenge
+-----------------
+PyCitySchool Analysis
+---------------------
+The two trends that can be obserevd from the analysis of the data are 
+A) From the dataframe of top performin school and bottom performing school it can be seen that the amount of money
+   spent on each student has no realtion to the performance on the students.This is a clear indiaction that how much a school spend doesn't
+   necessarily effect the performance of students and there are other conditions involved.
+B) Other trend that can be seen through observing the data in Scores by School Type is that Charter school tend to perform better overll
+   then District school the reason behind it can be a varierty of factors.One factor that can be is number of students per school as can be    seen from the Score by Size that the performance of the student tend to go down as the number of student increase in school.
